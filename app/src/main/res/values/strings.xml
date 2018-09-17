@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalendarioUdeAv20</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">Usuario o correo electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="aceptar">Iniciar sesion</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="mensaje"><![CDATA[<u>Regístrate</u>]]></string>
+    <string name="perfil">Mi Perfíl</string>
+    <string name="cerrarsesion">Cerrar Sesión</string>
+    <string name="principal">Principal</string>
+    <string name="informacion">CalendarioUdeA es una aplicación donde podrás organizar tus actividades de manera predictiva para un mejor manejo y optimización del tiempo. Estamos trabajando para brindarte el mejor desempeño y aprovechamiento de la App. ¡ Gracias por elegirnos !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="correoelectronico">calendarioudea@udea.edu.co</string>
+</resources>

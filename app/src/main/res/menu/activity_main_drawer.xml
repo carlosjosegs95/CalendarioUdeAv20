@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Inicio"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Pagina de inicio" />
+        <item
+            android:id="@+id/MiPerfil"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/Cerrar"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Cerrar Sesión" />
+    </group>
+
+</menu>
